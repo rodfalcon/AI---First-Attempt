@@ -1,0 +1,11 @@
+C:\Users\ModalGR\Desktop\WorkspaceC#\IA Teste\bin\Debug\netcoreapp2.2\IA Teste.deps.json
+C:\Users\ModalGR\Desktop\WorkspaceC#\IA Teste\bin\Debug\netcoreapp2.2\IA Teste.runtimeconfig.json
+C:\Users\ModalGR\Desktop\WorkspaceC#\IA Teste\bin\Debug\netcoreapp2.2\IA Teste.runtimeconfig.dev.json
+C:\Users\ModalGR\Desktop\WorkspaceC#\IA Teste\bin\Debug\netcoreapp2.2\IA Teste.dll
+C:\Users\ModalGR\Desktop\WorkspaceC#\IA Teste\bin\Debug\netcoreapp2.2\IA Teste.pdb
+C:\Users\ModalGR\Desktop\WorkspaceC#\IA Teste\obj\Debug\netcoreapp2.2\IA Teste.csprojAssemblyReference.cache
+C:\Users\ModalGR\Desktop\WorkspaceC#\IA Teste\obj\Debug\netcoreapp2.2\IA Teste.csproj.CoreCompileInputs.cache
+C:\Users\ModalGR\Desktop\WorkspaceC#\IA Teste\obj\Debug\netcoreapp2.2\IA Teste.AssemblyInfoInputs.cache
+C:\Users\ModalGR\Desktop\WorkspaceC#\IA Teste\obj\Debug\netcoreapp2.2\IA Teste.AssemblyInfo.cs
+C:\Users\ModalGR\Desktop\WorkspaceC#\IA Teste\obj\Debug\netcoreapp2.2\IA Teste.dll
+C:\Users\ModalGR\Desktop\WorkspaceC#\IA Teste\obj\Debug\netcoreapp2.2\IA Teste.pdb
